@@ -51,6 +51,7 @@ namespace Class_ObjectsEg
                 cousedetails[i].display();
             }
             Console.WriteLine("collegeid :", CourseDetails.Displaycollegeid());
+            Console.WriteLine("rough line for the purpose of jenkins")
             Console.Read();
         }
     }
