@@ -24,6 +24,7 @@ namespace Class_ObjectsEg
             Shape shape = new Shape();
             Console.WriteLine("area of circle {0}", shape.Area(4));
             Console.WriteLine("area of rectangle {0}", shape.Area(4,5));
+            Console.WriteLine("Build Success");
             Console.Read();
         }
     }
