@@ -1,0 +1,7 @@
+D:\get 873\.net\c#\day3\CSharpDay3\MethodsEg\bin\Debug\MethodsEg.exe.config
+D:\get 873\.net\c#\day3\CSharpDay3\MethodsEg\bin\Debug\MethodsEg.exe
+D:\get 873\.net\c#\day3\CSharpDay3\MethodsEg\bin\Debug\MethodsEg.pdb
+D:\get 873\.net\c#\day3\CSharpDay3\MethodsEg\obj\Debug\MethodsEg.csprojAssemblyReference.cache
+D:\get 873\.net\c#\day3\CSharpDay3\MethodsEg\obj\Debug\MethodsEg.csproj.CoreCompileInputs.cache
+D:\get 873\.net\c#\day3\CSharpDay3\MethodsEg\obj\Debug\MethodsEg.exe
+D:\get 873\.net\c#\day3\CSharpDay3\MethodsEg\obj\Debug\MethodsEg.pdb

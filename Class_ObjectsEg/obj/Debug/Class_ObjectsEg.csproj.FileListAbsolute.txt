@@ -1,0 +1,7 @@
+D:\get 873\.net\c#\day3\CSharpDay3\Class_ObjectsEg\bin\Debug\Class_ObjectsEg.exe.config
+D:\get 873\.net\c#\day3\CSharpDay3\Class_ObjectsEg\bin\Debug\Class_ObjectsEg.exe
+D:\get 873\.net\c#\day3\CSharpDay3\Class_ObjectsEg\bin\Debug\Class_ObjectsEg.pdb
+D:\get 873\.net\c#\day3\CSharpDay3\Class_ObjectsEg\obj\Debug\Class_ObjectsEg.csprojAssemblyReference.cache
+D:\get 873\.net\c#\day3\CSharpDay3\Class_ObjectsEg\obj\Debug\Class_ObjectsEg.csproj.CoreCompileInputs.cache
+D:\get 873\.net\c#\day3\CSharpDay3\Class_ObjectsEg\obj\Debug\Class_ObjectsEg.exe
+D:\get 873\.net\c#\day3\CSharpDay3\Class_ObjectsEg\obj\Debug\Class_ObjectsEg.pdb
